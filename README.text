@@ -1,2 +1,3 @@
 # init
-wget -O - https://raw.githubusercontent.com/lyhourchhen/init/master/server-fresh/run.sh | bash
+wget -O - https://raw.githubusercontent.com/lyhourchhen/init/master/run.sh | bash
+# 2021
