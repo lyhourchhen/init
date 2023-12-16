@@ -9,7 +9,7 @@ if [ "$(lsb_release -is)" != "Ubuntu" ]; then
 fi
 
 # update system 
-sudo apt-get install git
+sudo apt-get install git -y
 sudo apt-get update && sudo apt-get upgrade -y
 
 # install essential software 
